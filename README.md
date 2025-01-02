@@ -1,1 +1,1 @@
-**Learning RAG** is a project dedicated to exploring and implementing **Retrieval-Augmented Generation (RAG)**, a powerful approach combining retrieval systems and generative models to enhance knowledge-based tasks.
+**Learning RAG** learning and testing out rag using a transcript of a youtube video 
